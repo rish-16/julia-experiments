@@ -1,2 +1,2 @@
-# lisp-experiments
-Tiny experiments to learn Common Lisp
+# julia-experiments
+Tiny experiments to learn Julia
